@@ -1,1 +1,53 @@
+html, body{
+  width: 501px;
+  height: 820px;
+  margin: 50px auto;
+  background-color: white;
+  font-family: Courier, monospace;
+  font-size: 12pt;
+}
 
+#title{
+  font-size: 18pt;
+}
+
+button{
+  font-family: Courier, monospace;
+  font-size: 12pt;
+}
+
+canvas{
+  position: absolute;
+  display: block;
+  top: 250px;
+}
+
+button{
+  background-color: white
+}
+
+#button1{
+  position: relative;
+  top: 600px;
+}
+
+#button2{
+  position: relative;
+  top: 600px;
+  left: 10px;
+}
+
+#button3{
+  position: relative;
+  top: 600px;
+  left: 165px;
+}
+
+button:hover{
+  background-color: #E4F3FF;
+}
+
+button:active{
+  background-color: #CDE9FF;
+  box-shadow: 2px 2px black;
+}
