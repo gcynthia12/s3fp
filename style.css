@@ -1,7 +1,7 @@
 html, body{
   width: 501px;
-  height: 820px;
-  margin: 50px auto;
+  height: 775px;
+  margin: 30px auto;
   background-color: white;
   font-family: Courier, monospace;
   font-size: 12pt;
@@ -19,7 +19,7 @@ button{
 canvas{
   position: absolute;
   display: block;
-  top: 250px;
+  top: 210px;
 }
 
 button{

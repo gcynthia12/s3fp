@@ -8,7 +8,7 @@ function setup() {
   form.option('30', 'large');
   form.style('width', '80px');
   form.style('position', 'absolute');
-  form.style('top', '165px');
+  form.style('top', '125px');
   form.selected('10');
   //new color button
   button1 = select('#button1');
